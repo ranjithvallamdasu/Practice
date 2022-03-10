@@ -46,5 +46,10 @@ public class Car implements Vehicle {
         return "someitems";
     }
 
+    @Override
+    public Integer getEngineId() {
+        return 123;
+    }
+
 }
 
