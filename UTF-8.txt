@@ -1,0 +1,1 @@
+hello ranjith kumar vallamdasu how are you? some blah blah test added to increase the size of the filethis is utf 16 text and im going to test the size after writing this text to filesignificant change in size is observed between utf-8 and utf-16
